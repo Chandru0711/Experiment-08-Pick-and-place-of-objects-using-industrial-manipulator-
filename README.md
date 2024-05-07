@@ -1,6 +1,6 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 ## DATE :22-04-2024
-## NAME :CHANDR SM																			             
+## NAME :CHANDRU SM																			             
 ## ROLLNUMBER :212223230034
 ## DEPARTMENT :AIDS
 
