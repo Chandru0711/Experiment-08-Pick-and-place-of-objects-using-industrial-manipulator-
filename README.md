@@ -41,7 +41,6 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 
 ### Figure -01 DH gripper with two finger gripper 
 
